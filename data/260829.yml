@@ -1,0 +1,73 @@
+about:
+  description: open-source coding agent
+  license: Apache-2.0
+  homepage: https://continue.dev
+  head: 5522c6f
+  archived: false
+  latestVersion: v2.0.0-vscode
+  collectedAt: 2026-08-29T06:57:03Z
+timeline:
+  created: 2023-05-24
+  lastCommit: 2026-07-21
+  lastRelease: 2026-06-19
+popularity:
+  star: 35670
+  watcher: 162
+  fork: 5299
+  release: 827
+  contributor: 465
+  pullRequest: 1800
+  issue: 6677
+language:
+  TypeScript: 8887578
+  JavaScript: 821369
+  Kotlin: 407414
+  Python: 249328
+  Rust: 76465
+  CSS: 59775
+  Tree-sitter Query: 57082
+  Shell: 36934
+  PowerShell: 17001
+  Java: 4898
+  HTML: 3606
+  PHP: 1460
+  C#: 673
+  Jupyter Notebook: 541
+  Scheme: 441
+  Ruby: 363
+  Dockerfile: 347
+  Go: 166
+totalLine: 10625441
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 61
+    closedIssue: 1
+    openIssue: 46
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 11
+    openPR: 268
+    closedIssue: 22
+    openIssue: 290
+    commit: 37
+  last180d:
+    since: 2026-03-02
+    release: 26
+    mergedPR: 154
+    openPR: 459
+    closedIssue: 882
+    openIssue: 351
+    commit: 377
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 1081
+    openPR: 470
+    closedIssue: 2607
+    openIssue: 367
+    commit: 3424
