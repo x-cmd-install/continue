@@ -1,23 +1,25 @@
 about:
-  description: open-source coding agent
+  description:
+  |
+    open-source coding agent
   license: Apache-2.0
   homepage: https://continue.dev
   head: 5522c6f
   archived: false
   latestVersion: v2.0.0-vscode
-  collectedAt: 2026-09-04T04:19:24Z
+  collectedAt: 2026-09-04T19:23:28Z
 timeline:
   created: 2023-05-24
   lastCommit: 2026-07-21
   lastRelease: 2026-06-19
 popularity:
-  star: 35751
-  watcher: 166
-  fork: 5324
+  star: 35762
+  watcher: 167
+  fork: 5328
   release: 827
   contributor: 465
-  pullRequest: 1813
-  issue: 6681
+  pullRequest: 5894
+  issue: 6683
 language:
   TypeScript: 8887578
   JavaScript: 821369
@@ -37,37 +39,63 @@ language:
   Ruby: 363
   Dockerfile: 347
   Go: 166
-totalLine: 10625441
+totalBytes: 10625441
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
-    openPR: 59
+    openPR: 61
     closedIssue: 1
-    openIssue: 42
+    openIssue: 44
     commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 2
+    openPR: 131
+    closedIssue: 4
+    openIssue: 83
+    commit: 4
   last90d:
     since: 2026-06-06
     release: 5
     mergedPR: 10
-    openPR: 260
+    openPR: 262
     closedIssue: 22
-    openIssue: 284
+    openIssue: 286
     commit: 21
   last180d:
     since: 2026-03-08
     release: 24
     mergedPR: 130
-    openPR: 465
+    openPR: 467
     closedIssue: 745
-    openIssue: 334
+    openIssue: 336
     commit: 341
   last360d:
     since: 2025-09-09
     release: 100
     mergedPR: 1011
-    openPR: 477
+    openPR: 479
     closedIssue: 2609
-    openIssue: 348
+    openIssue: 350
     commit: 3106
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 3348
+    openPR: 479
+    closedIssue: 4837
+    openIssue: 452
+    commit: 14986
+total:
+  release: 827
+  mergedPR: 4078
+  openPR: 479
+  closedIssue: 6225
+  openIssue: 458
+  commit: 21569
+---
+---
+
