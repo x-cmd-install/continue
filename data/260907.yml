@@ -5,19 +5,19 @@ about:
   head: 5522c6f
   archived: false
   latestVersion: "v2.0.0-vscode"
-  collectedAt: 2026-09-07T06:17:45Z
+  collectedAt: 2026-09-07T18:17:47Z
 timeline:
   created: 2023-05-24
   lastCommit: 2026-07-21
   lastRelease: 2026-06-19
 popularity:
-  star: 35813
+  star: 35823
   watcher: 169
-  fork: 5344
+  fork: 5349
   release: 827
   contributor: 465
-  pullRequest: 5906
-  issue: 6686
+  pullRequest: 5909
+  issue: 6688
 language:
   TypeScript: 8887578
   JavaScript: 821369
@@ -43,60 +43,60 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 0
-    openPR: 62
+    openPR: 64
     closedIssue: 1
-    openIssue: 45
+    openIssue: 47
     commit: 0
   last60d:
     since: 2026-07-09
     release: 0
     mergedPR: 2
-    openPR: 134
+    openPR: 136
     closedIssue: 3
-    openIssue: 81
+    openIssue: 83
     commit: 4
   last90d:
     since: 2026-06-09
     release: 5
     mergedPR: 10
-    openPR: 268
+    openPR: 270
     closedIssue: 21
-    openIssue: 285
+    openIssue: 287
     commit: 21
   last180d:
     since: 2026-03-11
     release: 24
     mergedPR: 120
-    openPR: 477
+    openPR: 479
     closedIssue: 667
-    openIssue: 333
+    openIssue: 335
     commit: 282
   last360d:
     since: 2025-09-12
     release: 100
     mergedPR: 972
-    openPR: 489
+    openPR: 491
     closedIssue: 2606
-    openIssue: 347
+    openIssue: 349
     commit: 2887
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 3334
-    openPR: 489
+    openPR: 491
     closedIssue: 4836
-    openIssue: 449
+    openIssue: 451
     commit: 14912
 total:
   release: 827
   mergedPR: 4078
-  openPR: 489
+  openPR: 491
   closedIssue: 6231
-  openIssue: 455
+  openIssue: 457
   commit: 21569
 ---
 path: /home/runner/.x-repo/github.com/continuedev/continue
-collectedAt: 2026-09-07T06:18:23Z
+collectedAt: 2026-09-07T18:18:24Z
 loc:
   Json:
     code: 235388
@@ -262,7 +262,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:18:29+00:00
+  collectedAt: 2026-09-07T18:18:33+00:00
   platform:
     darwin/arm64:
       name:  null
