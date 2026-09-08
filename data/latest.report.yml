@@ -5,15 +5,15 @@ about:
   head: 5522c6f
   archived: false
   latestVersion: "v2.0.0-vscode"
-  collectedAt: 2026-09-08T03:24:04Z
+  collectedAt: 2026-09-08T06:04:00Z
 timeline:
   created: 2023-05-24
   lastCommit: 2026-07-21
   lastRelease: 2026-06-19
 popularity:
-  star: 35829
+  star: 35827
   watcher: 169
-  fork: 5352
+  fork: 5351
   release: 827
   contributor: 465
   pullRequest: 5909
@@ -96,7 +96,7 @@ total:
   commit: 21569
 ---
 path: /home/runner/.x-repo/github.com/continuedev/continue
-collectedAt: 2026-09-08T03:24:31Z
+collectedAt: 2026-09-08T06:04:29Z
 loc:
   Json:
     code: 235388
