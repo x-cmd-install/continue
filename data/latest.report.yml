@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0-vscode"
   latestRelease: "v2.0.0-vscode"
   latestPrerelease: "v2.1.0-vscode"
-  collectedAt: 2026-09-09T06:16:35Z
+  collectedAt: 2026-09-09T20:50:47Z
 timeline:
   created: 2023-05-24
   lastCommit: 2026-07-21
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 2026-06-19
 popularity:
-  star: 35838
-  watcher: 171
-  fork: 5352
+  star: 35847
+  watcher: 172
+  fork: 5353
   release: 827
   contributor: 465
   pullRequest: 5913
-  issue: 6688
+  issue: 6689
 language:
   TypeScript: 8887578
   JavaScript: 821369
@@ -49,7 +49,7 @@ recent:
     mergedPR: 0
     openPR: 63
     closedIssue: 1
-    openIssue: 40
+    openIssue: 42
     commit: 0
   last60d:
     since: 2026-07-11
@@ -57,7 +57,7 @@ recent:
     mergedPR: 2
     openPR: 128
     closedIssue: 3
-    openIssue: 83
+    openIssue: 85
     commit: 4
   last90d:
     since: 2026-06-11
@@ -65,7 +65,7 @@ recent:
     mergedPR: 10
     openPR: 252
     closedIssue: 21
-    openIssue: 279
+    openIssue: 281
     commit: 21
   last180d:
     since: 2026-03-13
@@ -73,7 +73,7 @@ recent:
     mergedPR: 110
     openPR: 481
     closedIssue: 592
-    openIssue: 334
+    openIssue: 336
     commit: 282
   last360d:
     since: 2025-09-14
@@ -81,26 +81,26 @@ recent:
     mergedPR: 967
     openPR: 493
     closedIssue: 2607
-    openIssue: 348
+    openIssue: 350
     commit: 2887
   last720d:
     since: 2024-09-19
     release: 100
     mergedPR: 3325
     openPR: 493
-    closedIssue: 4815
-    openIssue: 450
+    closedIssue: 4814
+    openIssue: 452
     commit: 14852
 total:
   release: 827
   mergedPR: 4078
   openPR: 493
-  closedIssue: 6232
-  openIssue: 456
+  closedIssue: 6231
+  openIssue: 458
   commit: 21569
 ---
 path: /home/runner/.x-repo/github.com/continuedev/continue
-collectedAt: 2026-09-09T06:17:06Z
+collectedAt: 2026-09-09T20:51:29Z
 loc:
   Json:
     code: 235388
