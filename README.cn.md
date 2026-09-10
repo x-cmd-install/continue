@@ -4,7 +4,7 @@
 
 open-source coding agent
 
-![continue](https://repo.x-cmd.io/continue.svg)
+![continue](https://repo.x-cmd.io/continue.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install continue
 
 - **最新版本**: `v2.0.0-vscode` (2026-06-19)
 - **最近提交**: 2026-07-21
-- **发布时间**: 2026-06-19T00:24:01Z
 
 ## 流行度
 
-- **Star**: 35,853 · **Fork**: 5,354 · **开放 issue**: 6,689 · **贡献者**: 464
+- **Star**: 35,863 · **Fork**: 5,353 · **开放 issue**: 6,689 · **贡献者**: 464
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ continue 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:21:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:30:09Z._
