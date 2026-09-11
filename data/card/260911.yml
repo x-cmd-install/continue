@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0-vscode"
   latestRelease: "v2.0.0-vscode"
   latestPrerelease: "v2.1.0-vscode"
-  collectedAt: 2026-09-11T06:12:32Z
+  collectedAt: 2026-09-11T18:45:23Z
 timeline:
   created: 2023-05-24
   lastCommit: 2026-07-21
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 2026-06-19
 popularity:
-  star: 35869
+  star: 35870
   watcher: 172
-  fork: 5359
+  fork: 5362
   release: 827
   contributor: 464
-  pullRequest: 5913
-  issue: 6689
+  pullRequest: 5916
+  issue: 6690
 language:
   TypeScript: 8887578
   JavaScript: 821369
@@ -47,60 +47,60 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 0
-    openPR: 61
+    openPR: 64
     closedIssue: 1
-    openIssue: 37
+    openIssue: 39
     commit: 0
   last60d:
     since: 2026-07-13
     release: 0
     mergedPR: 2
-    openPR: 122
+    openPR: 125
     closedIssue: 3
-    openIssue: 83
+    openIssue: 85
     commit: 4
   last90d:
     since: 2026-06-13
     release: 5
     mergedPR: 10
-    openPR: 243
+    openPR: 246
     closedIssue: 21
-    openIssue: 279
+    openIssue: 281
     commit: 21
   last180d:
     since: 2026-03-15
     release: 21
     mergedPR: 109
-    openPR: 481
-    closedIssue: 532
-    openIssue: 335
+    openPR: 484
+    closedIssue: 531
+    openIssue: 337
     commit: 282
   last360d:
     since: 2025-09-16
     release: 100
     mergedPR: 938
-    openPR: 493
-    closedIssue: 2600
-    openIssue: 350
+    openPR: 496
+    closedIssue: 2599
+    openIssue: 352
     commit: 2887
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 3319
-    openPR: 493
-    closedIssue: 4806
-    openIssue: 452
+    openPR: 496
+    closedIssue: 4805
+    openIssue: 454
     commit: 14804
 total:
   release: 827
   mergedPR: 4078
-  openPR: 493
-  closedIssue: 6231
-  openIssue: 458
+  openPR: 496
+  closedIssue: 6230
+  openIssue: 460
   commit: 21569
 ---
 path: /home/runner/.x-repo/github.com/continuedev/continue
-collectedAt: 2026-09-11T06:13:06Z
+collectedAt: 2026-09-11T18:45:56Z
 loc:
   Json:
     code: 235388
