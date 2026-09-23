@@ -4,7 +4,7 @@
 
 open-source coding agent
 
-[![x-cmd/install — continue Code Quality Monitoring Repo Card](https://repo.x-cmd.io/continue.svg)](https://x-cmd.com/install/continue)
+[![x-cmd/install — continue Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/continue.svg)](https://x-cmd.com/install/continue)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **526,518** lines of code across **2047** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,984 · **Forks**: 5,409 · **Open issues**: 6,708 · **Contributors**: 464
+- **Stars**: 35,997 · **Forks**: 5,415 · **Open issues**: 6,706 · **Contributors**: 464
 
 ## Totals (cumulative)
 
-- **Releases**: 827 · **Merged PRs**: 4078 · **Open PRs**: 519 · **Closed issues**: 6256 · **Open issues**: 452 · **Commits**: 21569
+- **Releases**: 827 · **Merged PRs**: 4078 · **Open PRs**: 522 · **Closed issues**: 6253 · **Open issues**: 453 · **Commits**: 21569
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 71 | 3 | 39 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 132 | 4 | 94 | 0 |
-| 90d | 2026-06-24 | 0 | 2 | 199 | 6 | 131 | 4 |
-| last180d | 2026-03-26 | 18 | 27 | 501 | 247 | 328 | 47 |
-| 360d | 2025-09-27 | 100 | 836 | 519 | 2582 | 343 | 2509 |
-| last720d | 2024-10-02 | 100 | 3278 | 519 | 4783 | 446 | 14612 |
+| 30d | 2026-08-24 | 0 | 0 | 69 | 3 | 37 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 134 | 4 | 95 | 0 |
+| 90d | 2026-06-25 | 0 | 2 | 199 | 6 | 131 | 4 |
+| last180d | 2026-03-27 | 8 | 14 | 503 | 237 | 327 | 47 |
+| 360d | 2025-09-28 | 100 | 835 | 522 | 2578 | 344 | 2509 |
+| last720d | 2024-10-03 | 100 | 3274 | 522 | 4772 | 447 | 14587 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for continue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:38:21Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:40:11Z._
