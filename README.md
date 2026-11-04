@@ -37,22 +37,22 @@ Total: **526,518** lines of code across **2047** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,399 · **Forks**: 5,545 · **Open issues**: 6,748 · **Contributors**: 463
+- **Stars**: 36,404 · **Forks**: 5,547 · **Open issues**: 6,748 · **Contributors**: 463
 
 ## Totals (cumulative)
 
-- **Releases**: 827 · **Merged PRs**: 4078 · **Open PRs**: 582 · **Closed issues**: 6457 · **Open issues**: 291 · **Commits**: 21569
+- **Releases**: 827 · **Merged PRs**: 4078 · **Open PRs**: 579 · **Closed issues**: 6457 · **Open issues**: 291 · **Commits**: 21569
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 72 | 2 | 39 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 137 | 5 | 71 | 0 |
-| 90d | 2026-08-05 | 0 | 0 | 186 | 6 | 115 | 0 |
-| last180d | 2026-05-07 | 5 | 11 | 464 | 284 | 170 | 37 |
-| 360d | 2025-11-08 | 100 | 582 | 582 | 2618 | 183 | 1770 |
-| last720d | 2024-11-13 | 100 | 3083 | 582 | 4765 | 285 | 13673 |
+| 30d | 2026-10-05 | 0 | 0 | 63 | 2 | 37 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 132 | 5 | 70 | 0 |
+| 90d | 2026-08-06 | 0 | 0 | 180 | 6 | 115 | 0 |
+| last180d | 2026-05-08 | 5 | 11 | 451 | 281 | 170 | 37 |
+| 360d | 2025-11-09 | 100 | 581 | 579 | 2615 | 183 | 1770 |
+| last720d | 2024-11-14 | 100 | 3063 | 579 | 4756 | 285 | 13649 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for continue lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:28:02Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:52:18Z._
