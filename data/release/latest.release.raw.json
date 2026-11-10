@@ -43,10 +43,10 @@
   "body": null,
   "reactions": {
     "url": "https://api.github.com/repos/continuedev/continue/releases/341701613/reactions",
-    "total_count": 13,
-    "+1": 9,
+    "total_count": 15,
+    "+1": 10,
     "-1": 0,
-    "laugh": 0,
+    "laugh": 1,
     "hooray": 0,
     "confused": 0,
     "heart": 4,
