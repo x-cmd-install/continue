@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0-vscode"
   latestRelease: "v2.0.0-vscode"
   latestPrerelease: "v2.1.0-vscode"
-  collectedAt: 2026-11-27T10:33:30Z
+  collectedAt: 2026-11-28T08:38:27Z
 timeline:
   created: 2023-05-24
   lastCommit: 2026-07-21
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 2026-06-19
 popularity:
-  star: 36579
+  star: 36587
   watcher: 163
   fork: 5593
   release: 827
   contributor: 463
   pullRequest: 6056
-  issue: 6767
+  issue: 6768
 language:
   TypeScript: 8887578
   JavaScript: 821369
@@ -44,63 +44,63 @@ language:
 totalBytes: 10625441
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
-    openPR: 42
+    openPR: 41
     closedIssue: 0
-    openIssue: 25
+    openIssue: 26
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
-    openPR: 107
-    closedIssue: 3
+    openPR: 100
+    closedIssue: 2
     openIssue: 63
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
-    openPR: 164
+    openPR: 161
     closedIssue: 7
-    openIssue: 95
+    openIssue: 96
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 5
     mergedPR: 11
-    openPR: 400
-    closedIssue: 269
-    openIssue: 146
+    openPR: 396
+    closedIssue: 271
+    openIssue: 145
     commit: 37
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 464
+    mergedPR: 456
     openPR: 595
-    closedIssue: 2532
-    openIssue: 159
+    closedIssue: 2528
+    openIssue: 158
     commit: 1390
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 2907
+    mergedPR: 2906
     openPR: 595
-    closedIssue: 4687
-    openIssue: 252
-    commit: 12809
+    closedIssue: 4686
+    openIssue: 250
+    commit: 12779
 total:
   release: 827
   mergedPR: 4078
   openPR: 595
-  closedIssue: 6502
-  openIssue: 265
+  closedIssue: 6505
+  openIssue: 263
   commit: 21569
 ---
 path: /home/runner/.x-repo/github.com/continuedev/continue
-collectedAt: 2026-11-27T10:34:02Z
+collectedAt: 2026-11-28T08:38:57Z
 loc:
   Json:
     code: 235388
